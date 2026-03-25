@@ -1,0 +1,8 @@
+myenv/
+__pycache__/
+*.pyc
+.env
+models/*.pkl
+ml-1m/*
+data/*
+logs/*
